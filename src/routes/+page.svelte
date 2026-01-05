@@ -9,7 +9,20 @@
 	import Security from "$lib/components/Security.svelte";
 	import Stats from "$lib/components/Stats.svelte";
 	import Footer from "$lib/components/Footer.svelte";
+
+	export let data;
 </script>
+
+<svelte:head>
+	<title>{data.title}</title>
+	<meta name="description" content={data.description} />
+	<meta property="og:title" content={data.title} />
+	<meta property="og:description" content={data.description} />
+	<meta property="og:type" content="website" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content={data.title} />
+	<meta name="twitter:description" content={data.description} />
+</svelte:head>
 
 <main class="min-h-screen bg-[#F9F9F9]">
 	<Navbar />
