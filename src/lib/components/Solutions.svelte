@@ -11,33 +11,33 @@
 
     <!-- Block 1 -->
     <SolutionBlock
-      label="Compliance Automation"
-      title="MiFID Costs & Charges"
-      description="Save 1,700+ working days annually with AI agents that automate regulatory reporting. Our compliance-grade workflows handle MiFID requirements end-to-end, delivering £280K in annual savings while maintaining audit-ready documentation."
+      label="Document Intelligence"
+      title="Document Processing & Extraction"
+      description="Transform unstructured data from documents, emails, video, and audio into structured, actionable workflows. Our AI agents extract, validate, and route information with human-in-the-loop controls, delivering compliance-grade automation at scale."
     >
-      <!-- Visual for Block 1: Compliance Dashboard -->
+      <!-- Visual for Block 1: Document Processing -->
       <div class="relative w-full h-full flex items-center justify-center">
         <!-- Central AI Agent -->
         <div class="w-20 h-20 bg-gray-900 shadow-lg rounded-lg flex items-center justify-center z-10 border border-gray-800">
            <div class="text-white text-xs font-bold">AI Agent</div>
         </div>
         
-        <!-- Connected Compliance Tasks -->
+        <!-- Connected Document Sources -->
         <div class="absolute top-1/4 left-1/4 bg-white p-3 shadow rounded border border-gray-200">
-            <div class="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-[10px] font-bold text-gray-700">MiFID</div>
-            <div class="mt-1 text-[10px] text-center">Reporting</div>
+            <div class="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-[10px] font-bold text-gray-700">PDF</div>
+            <div class="mt-1 text-[10px] text-center">Documents</div>
         </div>
         <div class="absolute top-1/4 right-1/4 bg-white p-3 shadow rounded border border-gray-200">
-            <div class="w-10 h-10 bg-gray-900 rounded flex items-center justify-center text-[10px] font-bold text-white">Costs</div>
-            <div class="mt-1 text-[10px] text-center">Analysis</div>
+            <div class="w-10 h-10 bg-gray-900 rounded flex items-center justify-center text-[10px] font-bold text-white">Email</div>
+            <div class="mt-1 text-[10px] text-center">Extraction</div>
         </div>
         <div class="absolute bottom-1/4 left-1/3 bg-white p-3 shadow rounded border border-gray-200">
-            <div class="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-[10px] font-bold text-gray-700">Audit</div>
-            <div class="mt-1 text-[10px] text-center">Trail</div>
+            <div class="w-10 h-10 bg-gray-100 rounded flex items-center justify-center text-[10px] font-bold text-gray-700">Audio</div>
+            <div class="mt-1 text-[10px] text-center">Processing</div>
         </div>
          <div class="absolute bottom-1/4 right-1/3 bg-white p-3 shadow rounded border border-gray-200">
-            <div class="w-10 h-10 bg-gray-900 rounded flex items-center justify-center text-[10px] font-bold text-white">QA</div>
-            <div class="mt-1 text-[10px] text-center">Validation</div>
+            <div class="w-10 h-10 bg-gray-900 rounded flex items-center justify-center text-[10px] font-bold text-white">Video</div>
+            <div class="mt-1 text-[10px] text-center">Analysis</div>
         </div>
         
         <!-- Connecting Lines -->

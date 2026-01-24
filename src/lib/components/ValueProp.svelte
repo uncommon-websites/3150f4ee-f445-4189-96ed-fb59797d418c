@@ -8,7 +8,7 @@
       Zero-migration AI automation
     </div>
     <h2 class="font-serif text-3xl md:text-5xl leading-snug text-gray-200">
-      <span class="text-gray-900">Transform back-office operations without replacing your systems.</span> AI agents orchestrate compliance workflows across legacy infrastructure, delivering ROI in weeks while maintaining regulatory standards.
+      <span class="text-gray-900">Transform back-office operations without replacing your systems.</span> Intelligent workflows orchestrate complex processes with agentic AI, human-in-the-loop controls, and seamless handoffs across legacy infrastructure.
     </h2>
   </div>
 </SectionWrapper>
